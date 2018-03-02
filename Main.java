@@ -9,8 +9,7 @@ public class Main {
 		theItr = theList.zeroth();
 		//Print the list values
 		printList(theList);
-
-		
+ 
 		//insert integer objects into linked list
 		for (int i = 0; i < 10; i++) {
 			//invoking insert method to insert the integer object  into MYLinkedList
